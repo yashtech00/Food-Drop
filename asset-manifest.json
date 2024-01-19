@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-drop/static/css/main.7c7ca5de.css",
+    "main.js": "/food-drop/static/js/main.2d3b1402.js",
+    "static/js/787.d886bdc2.chunk.js": "/food-drop/static/js/787.d886bdc2.chunk.js",
+    "index.html": "/food-drop/index.html",
+    "main.7c7ca5de.css.map": "/food-drop/static/css/main.7c7ca5de.css.map",
+    "main.2d3b1402.js.map": "/food-drop/static/js/main.2d3b1402.js.map",
+    "787.d886bdc2.chunk.js.map": "/food-drop/static/js/787.d886bdc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7ca5de.css",
+    "static/js/main.2d3b1402.js"
+  ]
+}
